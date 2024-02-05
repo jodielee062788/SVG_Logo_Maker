@@ -24,6 +24,7 @@ The SVG Logo Maker addresses the need for a quick and efficient method to create
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Test](#test)
 - [License](#license)
 - [Questions](#questions)
 - [How To Contribute](#how-to-contribute)
